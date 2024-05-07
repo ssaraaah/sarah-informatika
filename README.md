@@ -3,8 +3,8 @@
 
 
 
-![image](https://github.com/ssaraaah/sarah-informatika/assets/169175938/ab7d6a4a-04ec-4cd7-82f7-0550103d9f80)
 
+![image](https://github.com/ssaraaah/sarah-informatika/assets/169175938/f7af7e68-1ffe-408c-8550-6f17b13bca5f)
 
 
 # Funkcije u c++ programu
@@ -30,20 +30,24 @@ Povratne funkcije su bitan koncept u programiranju koji omogućava funkciji da v
 
 Na primer, možemo imati funkciju u programu koja računa kvadrat nekog broja. Kada pozovemo tu funkciju sa određenim brojem, očekujemo da će funkcija izračunati kvadrat tog broja i vratiti rezultat nazad u pozivajući kod. To se postiže pomoću "return" naredbe u većini programskih jezika. 
 
-## zadaci s funkcijama
+# zadaci s funkcijama
 
-- ### zad1
+- ## zad1
     Napisati program za izračunavanje dvostruke vrijednosti učitanog cijelog broja.
-- ### zad2
+- ## zad2
     Napisati program za funkcijom za izracunavanje kvadrata broja.
-- ### zad3
+- ## zad3
     Napisati program sa funkcijom za izracunavanje kuba vrijednosti učitanog cijelog broja.
 
   # moja tabela
 
   | Ponedjeljak | Utorak  | Srijeda | Četvrtak | Petak | Subota | Nedjelja |
   |-------------|---------|---------|----------|-------|--------|----------|
-  | 1222332     | 23456   |  33456  | 2344     | 4566  |  35678 | 345678   |
+  |             |         |         |    1     |   2   |  3     |     4    |
+  |     5       |   6     |    7    |    8     |   9   |  10    |    11    |
+  |     12      |   13    |    14   |    15    |   16  |  17    |    18    |
+  |     19      |   20    |    21   |    22    |   23  |  24    |    25    |
+  |     26      |   27    |    28   |    29    |
 
 
 
