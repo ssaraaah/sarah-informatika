@@ -42,7 +42,6 @@ Na primer, možemo imati funkciju u programu koja računa kvadrat nekog broja. K
   # moja tabela
 
   | Ponedjeljak | Utorak  | Srijeda | Četvrtak | Petak | Subota | Nedjelja |
-  
   |-------------|---------|---------|----------|-------|--------|----------|
   | 1222332     | 23456   |  33456  | 2344     | 4566  |  35678 | 345678   |
 
