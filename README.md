@@ -53,9 +53,14 @@ Na primjer, možemo imati funkciju u programu koja računa kvadrat nekog broja. 
   |     26      |   27    |    28   |    29    |
 
 
+# Linkovi
+https://chatgpt.com/?oai-dm=1
+https://github.com/ssaraaah/sarah-informatika/blob/main/README.md
+
  # Slike
 
-![image](https://github.com/ssaraaah/sarah-informatika/assets/169175938/c5fb565c-5fad-429a-b427-ef76c8b4f6d0)
+![image](https://github.com/ssaraaah/sarah-
+informatika/assets/169175938/c5fb565c-5fad-429a-b427-ef76c8b4f6d0)
 
 ![image](https://github.com/ssaraaah/sarah-informatika/assets/169175938/0aab7822-ea99-4199-a737-2de2df350e8c)
 
