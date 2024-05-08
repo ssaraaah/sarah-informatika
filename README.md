@@ -33,10 +33,13 @@ Na primjer, možemo imati funkciju u programu koja računa kvadrat nekog broja. 
 # Zadaci s funkcijama
 
 - zad1
+  
     -Napisati program za izračunavanje dvostruke vrijednosti učitanog cijelog broja.
 - zad2
+  
     -Napisati program za funkcijom za izracunavanje kvadrata broja.
 - zad3
+  
     -Napisati program sa funkcijom za izracunavanje kuba vrijednosti učitanog cijelog broja.
 
   # Moja tabela
