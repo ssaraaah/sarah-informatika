@@ -1,4 +1,4 @@
-# Dobro dosli u sarahin repozitorij informatike
+# Dobro dosli u Sarahin repozitorij informatike
 
 
 
@@ -28,16 +28,16 @@ Možete je koristiti kao uslov u if naredbi ili bilo kojoj drugoj situaciji gde 
 
 Povratne funkcije su bitan koncept u programiranju koji omogućava funkciji da vrati rezultat ili vrijednost nazad u pozivajući kod. Kada pozovemo funkciju, možemo očekivati da će nam dati neki odgovor ili rezultat koji možemo dalje koristiti u programu.
 
-Na primer, možemo imati funkciju u programu koja računa kvadrat nekog broja. Kada pozovemo tu funkciju sa određenim brojem, očekujemo da će funkcija izračunati kvadrat tog broja i vratiti rezultat nazad u pozivajući kod. To se postiže pomoću "return" naredbe u većini programskih jezika. 
+Na primjer, možemo imati funkciju u programu koja računa kvadrat nekog broja. Kada pozovemo tu funkciju sa određenim brojem, očekujemo da će funkcija izračunati kvadrat tog broja i vratiti rezultat nazad u pozivajući kod. To se postiže pomoću "return" naredbe u većini programskih jezika. 
 
 # Zadaci s funkcijama
 
-- ## zad1
-    Napisati program za izračunavanje dvostruke vrijednosti učitanog cijelog broja.
-- ## zad2
-    Napisati program za funkcijom za izracunavanje kvadrata broja.
-- ## zad3
-    Napisati program sa funkcijom za izracunavanje kuba vrijednosti učitanog cijelog broja.
+- zad1
+    -Napisati program za izračunavanje dvostruke vrijednosti učitanog cijelog broja.
+- zad2
+    -Napisati program za funkcijom za izracunavanje kvadrata broja.
+- zad3
+    -Napisati program sa funkcijom za izracunavanje kuba vrijednosti učitanog cijelog broja.
 
   # Moja tabela
 
